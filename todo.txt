@@ -1,2 +1,18 @@
-feladat kiírások
-ki mit csinál, hogy halad stb...
+Feladatok:
+
+Bánfalvi Tamás: 
+-	Írj egy olyan Python modult, amely beolvassa a megadott „.csv” fájlt a „pandas” könyvtár segítségével.
+-	Tisztítsd meg az adatokat (pl. ellenőrizd, hogy vannak-e hiányzó értékek, vagy hogyha vannak benne joker karakterek és kezeld ezeket; konvertáld az adatokat megfelelő típusokra).
+-	Szervezd úgy a kódot, hogy könnyen módosítható legyen a későbbiekben, ha például más `.csv` fájlokkal is szeretnénk tesztelni.
+-	Kommentekkel jelezd kérlek, hogy melyik sor vagy kód részlet milyen feladatot lát el. 
+
+
+Becsó Barnabás:
+-	A Tamás által elkészített modult felhasználva készíts diagramokat a „matplotlib” (vagy ha esteleg találtál könnyebben használhatót) könyvtár segítségével. Az elvárás szerint Vonal, - és Plot-diagram elkészítése lenne a feladatod.
+-	Ügyelj arra, hogy a diagramok informatívak és esztétikusak legyenek, és alkalmazz alapvető formázásokat (pl. címek, tengelyfeliratok, jelmagyarázat).
+-	Kommentekkel jelezd kérlek, hogy melyik sor vagy kód részlet milyen feladatot lát el.
+
+Dumitrescu Richárd Ádám:
+-	Tamás és Barnabás által elkészített kódot kellene hibakeresésnek alávetni. Különböző `.csv` fájlokkal is próbáld ki, hogy ellenőrizzük nem csak azzal az eggyel működik, amit mi használtunk.
+-	Dokumentáld kérlek az esetleges hibákat, és jelezd a többieknek min lenne szükséges változtatni vagy te is nyugodtan kijavíthatod.
+ 
